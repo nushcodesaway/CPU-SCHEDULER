@@ -36,5 +36,8 @@ This project allows users to input processes, select a scheduling algorithm, and
 
 ---
 
+**## ✅Live Demo at**
+https://nushcodesaway.github.io/CPU-SCHEDULER/
+
 ## 📁 Project Structure
 
