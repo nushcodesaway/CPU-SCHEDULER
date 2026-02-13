@@ -41,7 +41,7 @@ https://nushcodesaway.github.io/CPU-SCHEDULER/
 
 ---
 
-## 📁 Project Structur
+## 📁 Project Structure
 cpu-scheduler/
 │
 ├── index.html
