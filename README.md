@@ -6,6 +6,11 @@ This project allows users to input processes, select a scheduling algorithm, and
 
 ---
 
+**## ✅Live Demo at**
+https://nushcodesaway.github.io/CPU-SCHEDULER/
+
+---
+
 ## 🚀 Features
 
 - First Come First Serve (FCFS)
@@ -36,8 +41,57 @@ This project allows users to input processes, select a scheduling algorithm, and
 
 ---
 
-**## ✅Live Demo at**
-https://nushcodesaway.github.io/CPU-SCHEDULER/
+## 📁 Project Structur
+cpu-scheduler/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-## 📁 Project Structure
+
+
+---
+
+## 🧠 Algorithms Implemented
+
+### 1️⃣ FCFS (First Come First Serve)
+Processes are executed in the order they arrive.
+
+### 2️⃣ SJF (Shortest Job First)
+Process with smallest burst time executes first.
+
+### 3️⃣ Round Robin
+Each process gets a fixed time quantum.
+
+---
+
+## 📈 Performance Metrics Calculated
+
+- Completion Time (CT)
+- Waiting Time (WT)
+- Turnaround Time (TAT)
+- Average WT
+- Average TAT
+
+---
+
+## 🎯 Future Improvements
+
+- Priority Scheduling
+- Preemptive SJF
+- Performance Graph Visualization
+- Dark / Light Mode Toggle
+- Export Results as PDF
+- Process Animation Mode
+
+---
+
+## 👩‍💻 Author
+
+**Anusha**  
+Computer Science Student  
+
+---
+
 
